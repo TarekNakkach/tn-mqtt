@@ -1,0 +1,7 @@
+{
+	"address": "test.mosquitto.org",
+	"port": 1883,
+	"keepalive": 60,
+	"qos": 0,
+	"clean_session": true
+}
